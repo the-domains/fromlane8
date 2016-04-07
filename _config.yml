@@ -1,0 +1,28 @@
+name: FromLane8
+favicon: null
+layout_spectrum: 0.09229717333801091
+typography_spectrum: 0.9142459183931351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8736510861199349
+  lightness: 0.01620399416424334
+  saturation: 0.13840668555349112
+  rhythmicContrast: 0.3062811312265694
+purpose: []
